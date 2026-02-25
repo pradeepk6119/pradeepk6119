@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Pradeep K 👋
+Final-year B.E. student & Java Full Stack Developer Intern. I’m a developer focused on building functional applications that bridge the gap between hardware and software, specifically through IoT and Machine Learning.
 
-<!--
-**pradeepk6119/pradeepk6119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I’m Working On
+IoT-ML Healthcare: Developing a real-time framework for early cardiovascular risk prediction.
 
-Here are some ideas to get you started:
+AI Social Spark: A project created during HACKNEX 2025.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building productivity app.
+
+🛠 Tech Stack
+Languages: Java , JavaScript
+
+Specialties: IoT , Web Development
+
+Tools: Git, GitHub Copilot
+
+🌱 Current Focus
+Deepening my expertise in Java and refining full-stack development workflows during my internship at Jspiders.
+
+📫 Connect with me: LinkedIn
