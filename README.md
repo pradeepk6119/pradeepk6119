@@ -4,8 +4,6 @@ Final-year B.E. student & Java Full Stack Developer Intern. I’m a developer fo
 🚀 What I’m Working On
 IoT-ML Healthcare: Developing a real-time framework for early cardiovascular risk prediction.
 
-AI Social Spark: A project created during HACKNEX 2025.
-
 Building productivity app.
 
 🛠 Tech Stack
